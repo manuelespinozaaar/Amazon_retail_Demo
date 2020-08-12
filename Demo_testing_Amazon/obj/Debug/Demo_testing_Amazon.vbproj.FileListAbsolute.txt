@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\bin\Debug\Demo_testing_Amazon.exe.config
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\bin\Debug\Demo_testing_Amazon.exe
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\bin\Debug\Demo_testing_Amazon.pdb
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\bin\Debug\Demo_testing_Amazon.xml
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\obj\Debug\Demo_testing_Amazon.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\obj\Debug\Demo_testing_Amazon.Form1.resources
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\obj\Debug\Demo_testing_Amazon.Resources.resources
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\obj\Debug\Demo_testing_Amazon.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\obj\Debug\Demo_testing_Amazon.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\obj\Debug\Demo_testing_Amazon.exe
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\obj\Debug\Demo_testing_Amazon.xml
+C:\Users\user\Desktop\Trabajo Testing y Calidad Software\Demo_testing_Amazon\Demo_testing_Amazon\obj\Debug\Demo_testing_Amazon.pdb
